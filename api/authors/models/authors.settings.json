@@ -17,6 +17,9 @@
     },
     "authorIDsql": {
       "type": "integer"
+    },
+    "slug": {
+      "type": "string"
     }
   }
 }
